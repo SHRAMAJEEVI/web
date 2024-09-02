@@ -1,0 +1,72 @@
+body{
+    text-align: center;
+    container: center;
+}
+
+
+
+#bar{
+    container: center;
+    text-align: center;
+    font-style: italic;
+    background-color:rgb(171, 237, 237);
+    height: 550px;
+    width: 700px;
+    -ms-flex-align: center;
+    
+    
+    color: rgb(70, 210, 210);
+
+}
+#cloud{
+    border-radius:75%;
+}
+p{
+    text-align: right;
+    border-radius: 0%;
+}
+h2{
+    text-align: left;
+
+}
+h3{
+    font-style: normal;
+}
+#img{
+    
+    
+text-align: center;
+}
+img{
+    border-radius: 100%;
+    border: none;
+}
+#text{
+    text-align: center;
+}
+#main{
+    text-align: center;
+    
+
+}
+button{
+    background-color:purple;
+    color: white;
+    border: none;
+    tab-size: 200px;
+    border-radius: 35%;
+    
+}
+button:hover{
+    background-color: rgb(180, 230, 230);
+    color: purple;
+}
+#navbar{
+    height: 50px;
+    background-color:rgb(163, 245, 245);
+    text-align: center;
+}
+a{
+    text-align: center;
+    margin-right: 40px;
+}
